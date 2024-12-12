@@ -2,7 +2,7 @@
 
 ### [LIVE DEMO](https://film-tracker-app.netlify.app/)
 
-![Preview]("https://github.com/Ryu024/film-tracker/blob/master/src/assets/image.png")
+![Film Tracker](src/assets/image.png)
 
 # Description
 <div>
